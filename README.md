@@ -24,4 +24,4 @@ Welcome to my project portfolio! Here, you'll find both my GitHub-hosted project
 
 ## 📬 Connect with Me  
 📧 **Email:** milos772057@gmail.com  
-🔗 **LinkedIn:** [My LinkedIn](https://linkedin.com/in/yourprofile)
+🔗 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/milos-milovanovic-1bb661261/)
