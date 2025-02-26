@@ -9,8 +9,8 @@ Welcome to my project portfolio! Here, you'll find both my GitHub-hosted project
 ### 🎮 Personal Projects  
 | Project | Description | Links |
 |---------|------------|-------|
-|**Night Club Dash** | A 2.5D isometric action game showcasing dynamic movement and enemy AI. | [🔗 Repo](https://github.com/milosgames96/NightclubDash) |
-|**Laki the Dodger** | A 3D platformer featuring challenging obstacles and immersive environment.  | [🔗 Repo](https://github.com/milosgames96/LakiTheDodger) |
+|**Night Club Dash** | A 2.5D isometric action game showcasing dynamic movement and enemy AI. | [🔗 Source](https://github.com/milosgames96/NightclubDash) |
+|**Laki the Dodger** | A 3D platformer featuring challenging obstacles and immersive environment.  | [🔗 Source](https://github.com/milosgames96/LakiTheDodger) |
 
 ### 🎰 IGT Projects  
 | Project | Description | Links |
@@ -24,4 +24,4 @@ Welcome to my project portfolio! Here, you'll find both my GitHub-hosted project
 
 ## 📬 Connect with Me  
 📧 **Email:** milos772057@gmail.com  
-🔗 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
+🔗 **LinkedIn:** [My LinkedIn](https://linkedin.com/in/yourprofile)
