@@ -1,8 +1,7 @@
 # 🚀 My Projects Collection
 ![Banner](Banner_10fps.gif)
 
-Welcome to my project portfolio! Here, you'll find both my GitHub-hosted projects and external projects that I've worked on in IGT.
-
+Welcome to my project portfolio! Here, you'll find both my GitHub-hosted projects and external projects that I've worked on in IGT. Also, feel free to check out my itch.io : [🔗 itch.io](https://zobara.itch.io/)
 
 ## 📌 Featured Projects
 
